@@ -1,0 +1,6 @@
+# The app is plain static files (React loaded from CDN) — no build step needed.
+# The Ollama proxy from server.js runs as Netlify Functions in netlify/functions.
+[build]
+  command = "echo 'No build step required'"
+  publish = "public"
+  functions = "netlify/functions"
