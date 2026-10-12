@@ -1,0 +1,12 @@
+{
+  "name": "ai-email-spam-classifier",
+  "version": "1.0.0",
+  "description": "React (CDN) email spam classifier using the Ollama Cloud API through a tiny Node proxy",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

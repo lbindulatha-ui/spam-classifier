@@ -1,0 +1,41 @@
+From: offers@shopping-deals.example
+
+Subject: 🎉 90% OFF — Huge Sale Today!
+
+Message:
+
+Hello Customer,
+
+Get 90% OFF on all products! Buy now and enjoy amazing deals. Limited-time offer!
+
+Click here to shop now.
+
+
+
+From: security@fake-bank.example
+
+Subject: Urgent! Your Bank Account Will Be Blocked
+
+Message:
+
+Dear Customer,
+
+Your bank account will be blocked today. Verify your account immediately by entering your username, password, and OTP using the link below.
+
+Click here to verify your account.
+
+
+
+From: teacher@school.example
+
+Subject: Tomorrow's Class Schedule
+
+Message:
+
+Hello Students,
+
+Tomorrow's class will begin at 9:00 AM. Please bring your textbooks and complete the assigned homework.
+
+Thank you,
+
+Your Teacher
